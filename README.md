@@ -6,8 +6,7 @@ I designed this because I was tired of the back pains so I decided to design and
 
 Case:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddf90e28-336f-42a8-bf1f-2a5d02ace9b4" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32fd239f-dc87-4890-b6ba-8f23a25523d6" />
 
 
 Case with the pcb:
